@@ -1,0 +1,7 @@
+[http]
+        proxy = http://proxyvipfmcc.nb.ford.com:83
+[https]
+        proxy = https://proxyvipfmcc.nb.ford.com:83
+[user]
+        email = pabrah15@ford.com
+        name = pabrah15

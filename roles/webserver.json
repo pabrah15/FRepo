@@ -1,0 +1,11 @@
+{
+    "name" : "webserver",
+    "default_attributes" :{
+        "httpd" : {
+            "greeting"  :  "My Greeting"
+        }
+},
+"run_list"  :  [
+    "recipe[httpd]"
+    ]
+}
